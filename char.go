@@ -1,6 +1,6 @@
 package char
 
-// char is a simple program that switch between
+// char is a simple program that switch
 // between forward slash and backslash
 // it takes a string in backtick and changes every ocurrence of
 // forwrd slash to backwrd slash and vice versa
