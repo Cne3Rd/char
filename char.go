@@ -4,7 +4,7 @@ package char
 // between forward slash and backslash
 // it takes a string in backtick and changes every ocurrence of
 // forwrd slash to backwrd slash and vice versa
-// depending on the function you called or
+// depending on the function you called 
 // it is useful when dealing with file path
 // while switching between windows and linux
 
